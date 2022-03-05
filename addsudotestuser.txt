@@ -1,0 +1,1 @@
+how to add sudo permission to testuser  => usermod -aG sudo testuser

@@ -1,0 +1,7 @@
+
+To disable a service in linux, to add protection
+
+systemctl stop ssh \n systemctl disable ssh
+
+systemctl enable ssh
+systemctl start ssh
